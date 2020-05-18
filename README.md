@@ -1,2 +1,3 @@
 # pytorch-for-deep-learning-and-computer-vision
-Code implementations for the course 'Pytorch for Deep Learning and Computer Vision'
+
+This repository contains the implementations for the [course](https://udemy.com/course/pytorch-for-deep-learning-and-computer-vision) on Udemy. Each module has a dedicated notebook.
